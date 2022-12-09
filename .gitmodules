@@ -1,3 +1,6 @@
 [submodule "DevOps_Assignment"]
 	path = DevOps_Assignment
 	url = https://github.com/similarweb/finala
+[submodule "master_pantomath"]
+	path = master_pantomath
+	url = https://github.com/Nikhitahavaladar/DevOps_Assignment
